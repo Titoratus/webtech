@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost/jekyll/metrology/_site/</link>
-    <atom:link href="http://localhost/jekyll/metrology/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Oct 2018 11:06:31 +0300</pubDate>
-    <lastBuildDate>Sat, 13 Oct 2018 11:06:31 +0300</lastBuildDate>
+    <link>https://titoratus.github.io/webtech/</link>
+    <atom:link href="https://titoratus.github.io/webtech/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 Oct 2018 17:22:48 +0300</pubDate>
+    <lastBuildDate>Mon, 15 Oct 2018 17:22:48 +0300</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -67,8 +67,8 @@
 &lt;p&gt;Отклонения бывают положительными, отрицательными и равными нулю. Отклонения, равные нулю, в обозначении не указываются. На чертежах номинальные и предельные линейные размеры и их отклонения проставляют в миллиметрах без указания единицы физической величины.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/28/01.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/28/01.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/28/01.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/28/01.html</guid>
         
         
         <category>posts</category>
@@ -80,8 +80,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/test/2018/09/28/01-test2.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/test/2018/09/28/01-test2.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test2.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test2.html</guid>
         
         
         <category>test</category>
@@ -93,8 +93,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/test/2018/09/28/01-test1.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/test/2018/09/28/01-test1.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test1.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test1.html</guid>
         
         
         <category>test</category>
@@ -160,8 +160,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/27/02.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/27/02.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/27/02.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/27/02.html</guid>
         
         
         <category>posts</category>
@@ -227,8 +227,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/26/03.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/26/03.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/26/03.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/26/03.html</guid>
         
         
         <category>posts</category>
@@ -294,8 +294,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/25/04.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/25/04.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/25/04.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/25/04.html</guid>
         
         
         <category>posts</category>
@@ -361,8 +361,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/24/05.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/24/05.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/24/05.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/24/05.html</guid>
         
         
         <category>posts</category>
@@ -428,8 +428,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/23/06.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/23/06.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/23/06.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/23/06.html</guid>
         
         
         <category>posts</category>
@@ -495,8 +495,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/22/07.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/22/07.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/22/07.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/22/07.html</guid>
         
         
         <category>posts</category>
@@ -562,8 +562,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://localhost/jekyll/metrology/_site/posts/2018/09/21/08.html</link>
-        <guid isPermaLink="true">http://localhost/jekyll/metrology/_site/posts/2018/09/21/08.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/21/08.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/21/08.html</guid>
         
         
         <category>posts</category>
