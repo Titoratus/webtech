@@ -1,0 +1,323 @@
+/* Bootstrap */
+@import "../node_modules/bootstrap/scss/bootstrap-grid";
+
+$regular: "Raleway-Regular"
+$semi: "Raleway-Semibold"
+$medium: "Raleway-Medium"
+
+*
+	margin: 0
+	padding: 0
+	box-sizing: border-box
+
+html, body
+	height: 100%
+
+body
+	padding-top: 30px
+	font-size: 16px
+	//background: url(../img/bg.png)
+	//background-size: 30%
+	//background-attachment: fixed
+
+header
+	margin-bottom: 84px
+
+a
+	text-decoration: none
+
+.top-menu
+	list-style: none
+	margin-left: 20px
+
+	li
+		display: inline-block
+		&:not(:first-child)
+			margin-left: 27px
+
+		a
+			display: inline-block
+			color: #3e4846
+			font: 14px $regular
+			text-decoration: none
+			font-weight: 400
+			padding-bottom: 7px
+
+			&:not(.link-active):hover
+				opacity: .7
+
+		.link-active
+			color: #3360b1
+			font-style: normal
+			font-weight: bold
+			border-bottom: 2px solid #3360b1
+
+.article
+	background: #fff
+	padding: 20px 28px
+	margin-bottom: 40px
+
+.page-title, .article-title
+	font: 16px $regular
+	font-style: normal
+	font-weight: bold
+	color: #3a3b3e
+	margin-bottom: 40px
+
+.theory-units
+	list-style: none
+	margin-left: 33px
+	margin-bottom: 50px
+
+	li
+		padding: 10px 0
+		line-height: 1.5
+		position: relative
+		transition: .25s
+		&::before
+			content: ''
+			display: block
+			position: absolute
+			width: 8px
+			height: 8px
+			transition: .25s
+			z-index: 5
+			border-radius: 50%
+			background: #839dca
+			left: -30px
+			top: 50%
+			margin-top: -4px
+		&:not(:first-child)::after
+			content: ''
+			display: block
+			position: absolute
+			top: -23px
+			left: -26.5px
+			width: 1px
+			height: 100%
+			background: #839dca
+		&:hover::before
+			background: #f19c33
+			box-shadow: 0 0 10px orange
+		a
+			text-decoration: none
+			color: #576b8d
+			font: 14px $medium
+			&:hover
+				text-decoration: underline
+
+.article-title
+	margin-bottom: 45px
+	font-size: 42px
+	letter-spacing: 1px
+
+.article-text
+	font: 21px Georgia
+	color: #54565a
+	line-height: 1.6
+	letter-spacing: -.5px
+
+	p
+		margin: 12px 0
+
+.test
+	box-shadow: 0 10px 27px rgba(48, 50, 86, 0.1)
+	padding: 20px 27px
+	text-align: center
+	transition: .25s
+	background: #fff
+	margin-bottom: 40px
+
+.test-title
+	color: #39404e
+	font: 15px $regular
+	font-style: normal
+	font-weight: bold
+	margin-bottom: 15px
+
+.test-num, .test-time
+	color: #00a651
+	font: 13px Verdana
+	position: relative
+	text-align: left
+	line-height: 1.75
+	&::before
+		content: ''
+		display: block
+		width: 13px
+		height: 13px
+		position: absolute
+		left: -22px
+		top: 50%
+		margin-top: -6.5px
+		background: url(../img/test-icons.png) no-repeat center
+		background-size: cover
+
+.test-num::before
+	background-position: 0 0
+
+.test-time::before
+	background-position: 100%
+
+.test-start
+	border: 1px solid #d3d7db
+	padding: 7px 16px
+	display: inline-block
+	font: 13px $regular
+	text-transform: uppercase
+	letter-spacing: 1px
+	border-radius: 3px
+	margin-top: 15px
+	color: #b0bac1
+	cursor: pointer
+	&:hover
+		background: linear-gradient(45deg, #009245, #66c11c)
+		border: 1px solid #fff
+		color: #fff
+
+.testing-title
+	font: 18px $regular
+	font-style: normal
+	font-weight: bold
+	color: #54565a
+	text-align: center
+	margin-top: 58px
+	margin-bottom: 54px
+
+.test-answer
+	display: none
+	+ label
+		display: block
+		margin: 10px 0
+		border: 1px solid #d6d7db
+		padding: 14px 20px
+		font: 13px "Tahoma"
+		cursor: pointer
+		background: #fff
+		color: #7c7d8c
+		border-radius: 3px
+		transition: .25s
+		line-height: 1.5
+		&:hover
+			border-color: #92b2ed
+	&:checked + label
+		background: #f6f9fe
+		border-color: #92b2ed
+
+.testing-info
+	margin-bottom: 27px
+	p
+		color: #54565a
+		display: inline-block
+		font: 14px "Tahoma"
+		opacity: .6
+		&:not(:first-of-type)
+			margin-left: 34px
+
+.quest-title
+	color: #54565a
+	font: 14px $semi
+	margin-bottom: 27px
+
+.testing-next, .page-back
+	background: #33aa30
+	color: #fff
+	font: 13px $regular
+	border-radius: 3px
+	padding: 13px 45px
+	display: inline-block
+	cursor: pointer
+	transition: .15s
+	margin-top: 27px
+	&:hover
+		opacity: .87
+	&:active
+		transform: translateY(3px)
+
+.page-back
+	margin: 10px 0
+	margin-top: 24px
+	color: #585858
+	background: #e4e4e4
+	&::selection
+		background: none
+
+//Результат
+.test-res
+	text-align: center
+	width: 400px
+	margin: 0 auto
+	background: linear-gradient(45deg, #598bfb, #92d4fb)
+	padding: 20px
+	border-radius: 4px
+	padding-bottom: 40px
+
+	p
+		font: 14px Verdana
+		color: #fff
+		display: inline-block
+		&:last-of-type
+			margin-left: 40px
+		span
+			font-size: 100px
+			text-shadow: 2px 2px 1px rgba(44, 92, 197, .3)
+			display: block
+
+	.end-btn
+		padding: 10px
+		background: none
+		border: 1px solid #fff
+		color: #fff
+		font: 13px Verdana
+		display: block
+		width: 128px
+		margin: auto
+		margin-top: 50px
+		text-transform: uppercase
+		letter-spacing: 1px
+		transition: .15s
+		cursor: pointer
+		opacity: .5
+		&:hover
+			opacity: 1
+
+//glossary
+.term-title
+	font: 37px $semi
+	margin-bottom: 14px
+	color: #191921
+
+.term-desc
+	font: 19px $medium
+	color: #676977
+	margin-bottom: 50px
+	line-height: 1.5
+
+.term-search
+	padding: 10px 25px
+	border: 1px solid #ccc
+	border-radius: 5px
+	width: 160px
+	text-indent: 30px
+	margin-bottom: 40px
+	text-align: center
+	outline: none
+	font: 21px $medium
+	transition: .25s
+	display: block
+	color: rgba(0,0,0,.5)
+	background: url(../img/search.png) no-repeat 14px center
+	background-size: 17%
+	cursor: pointer
+	&:focus
+		border-color: #527ab9
+		color: #527ab9
+		width: 270px
+		text-indent: 0
+		background-size: 10%
+		background-position: 10px -50px
+		cursor: text
+	&::placeholder
+		color: rgba(0,0,0,.24)
+	&:not(:focus):hover
+		border-color: rgba(82, 122, 185, .5)

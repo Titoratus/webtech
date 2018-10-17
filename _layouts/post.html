@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <script src="{{ site.url }}/js/libs.min.js"></script>
+    <script src="{{ site.url }}/js/font-loader.min.js"></script>
+  </head>
+  <body>
+    {% include header.html %}
+
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-8">
+          
+          <article class="article">
+            <h1 class="article-title">{{ page.title }}</h1>
+
+            <div class="article-text">{{ content }}</div>
+
+            <a href="{{ site.url }}/theory"><div class="page-back">Назад</div></a>
+          </article>
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+    <script src="{{ site.url }}/js/scripts.min.js"></script>
+  </body>
+</html>

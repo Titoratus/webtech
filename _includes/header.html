@@ -1,0 +1,17 @@
+<header>
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-2">
+				<img src="{{ site.url }}/img/logo.png" alt="Метрология" class="logo">
+			</div>
+			<div class="col-10">
+				<ul class="top-menu">
+					<li><a href="{{ site.url }}/theory" {% if page.title == 'Теория' or page.categories contains "posts" %}class='link-active'{% endif %}>Теория</a></li>
+					<li><a href="{{ site.url }}/tests" {% if page.title == 'Тесты' %}class='link-active'{% endif %}>Тесты</a></li>
+					<li><a href="{{ site.url }}/literature" {% if page.title == 'Литература' %}class='link-active'{% endif %}>Литература</a></li>
+					<li><a href="{{ site.url }}/glossary" {% if page.title == 'Глоссарий' %}class='link-active'{% endif %}>Глоссарий</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
