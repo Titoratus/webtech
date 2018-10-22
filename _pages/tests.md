@@ -7,7 +7,7 @@ permalink: /tests/
 <div class="container">
 	<div class="row">
 		{% for post in site.categories.test %}
-			<div class="col-3">
+			<div class="col-xl-3 col-md-6">
 				<div class="test">
 					<h4 class="test-title">{{ post.title }}</h4>
 					<div class="row justify-content-center">

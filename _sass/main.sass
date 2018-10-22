@@ -10,12 +10,15 @@ $medium: "Raleway-Medium"
 	padding: 0
 	box-sizing: border-box
 
-html, body
+html
 	height: 100%
 
 body
 	padding-top: 30px
+	min-height: 100%
+	padding-bottom: 50px
 	font-size: 16px
+	position: relative
 	//background: url(../img/bg.png)
 	//background-size: 30%
 	//background-attachment: fixed
@@ -54,7 +57,7 @@ a
 
 .article
 	background: #fff
-	padding: 20px 28px
+	padding: 20px 0
 	margin-bottom: 40px
 
 .page-title, .article-title
@@ -127,6 +130,19 @@ a
 	transition: .25s
 	background: #fff
 	margin-bottom: 40px
+	position: relative
+	overflow: hidden
+	&::before
+		content: ''
+		display: block
+		width: 64px
+		height: 64px
+		background: url(../img/test.png) no-repeat center
+		background-size: cover
+		position: absolute
+		right: -25px
+		bottom: 7px
+		opacity: .2
 
 .test-title
 	color: #39404e
@@ -321,3 +337,23 @@ a
 		color: rgba(0,0,0,.24)
 	&:not(:focus):hover
 		border-color: rgba(82, 122, 185, .5)
+
+.not-found
+	color: #a2a2a2
+	font: 20px $regular
+	display: none
+
+//footer
+footer
+	color: #bbb
+	text-align: center
+	font: 13px Arial, sans-serif
+	position: absolute
+	bottom: 0
+	left: 0
+	right: 0
+	width: 100%
+	span
+		display: inline-block
+		border-top: 1px solid #e0e0e0
+		padding: 16px

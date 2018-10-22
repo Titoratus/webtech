@@ -19,6 +19,9 @@ $(document).ready(function(){
 				$(value).next("p").show();				
 			}
 		});
+
+		if ($(".term-title:visible").length == 0) $(".not-found").show();
+		else $(".not-found").hide();
 	});
 
 });

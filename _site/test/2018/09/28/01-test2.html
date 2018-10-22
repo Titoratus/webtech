@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Контрольная</title>
-    <link rel="stylesheet" href="http://localhost:3000/css/main.css">
-    <link rel="canonical" href="http://localhost:3000/test/2018/09/28/01-test2.html">
-    <script src="http://localhost:3000/js/libs.min.js"></script>
-    <script src="http://localhost:3000/js/font-loader.min.js"></script>
+    <title>Тестирование</title>
+    <link rel="stylesheet" href="http://forallneeds.h1n.ru/webtech/css/main.css">
+    <link rel="canonical" href="http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test2.html">
+    <script src="http://forallneeds.h1n.ru/webtech/js/libs.min.js"></script>
+    <script src="http://forallneeds.h1n.ru/webtech/js/font-loader.min.js"></script>
   </head>
   <body>
   <script>
   //Если null - значит тест закончен
   if (!localStorage.getItem('currQuest'))
-    window.location.href = "http://localhost:3000/tests";
+    window.location.href = "http://forallneeds.h1n.ru/webtech/tests";
 
   //Все вопросы и ответы
   var quests = [
@@ -162,7 +162,7 @@
           res = 2;
       }
 
-      $(".testing-res").html("<div class='test-res'><p class='right_ans'><span>"+right+"</span>Верных ответов</p><p class='res_grade'><span>"+res+"</span>Ваша оценка</p><a href='http://localhost:3000/theory'><div class='end-btn'>Закончить</div></a></div>");
+      $(".testing-res").html("<div class='test-res'><p class='right_ans'><span>"+right+"</span>Верных ответов</p><p class='res_grade'><span>"+res+"</span>Ваша оценка</p><a href='http://forallneeds.h1n.ru/webtech/theory'><div class='end-btn'>Закончить</div></a></div>");
       localStorage.removeItem('currQuest');
       localStorage.removeItem('timeLast');
       localStorage.removeItem('rightAns');
@@ -201,7 +201,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-8">
-          <h1 class="testing-title">Контрольная</h1>
+          <h1 class="testing-title">Тестирование</h1>
           <div class="testing-res">
             <div class="testing-info">
               <p class="testing-num">Вопрос <span></span> из 4</p>
@@ -217,8 +217,8 @@
     </div>
 
     <footer>
+	<span>2018 Designed by E. Starosvetskii</span>
 </footer>
-
-    <script src="http://localhost:3000/js/scripts.min.js"></script>
+    <script src="http://forallneeds.h1n.ru/webtech/js/scripts.min.js"></script>
   </body>
 </html>
