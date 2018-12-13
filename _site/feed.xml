@@ -2,13 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://forallneeds.h1n.ru/webtech/</link>
-    <atom:link href="http://forallneeds.h1n.ru/webtech/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Oct 2018 21:50:59 +0300</pubDate>
-    <lastBuildDate>Mon, 22 Oct 2018 21:50:59 +0300</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <description></description>
+    <link>https://titoratus.github.io/webtech/</link>
+    <atom:link href="https://titoratus.github.io/webtech/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 13 Dec 2018 23:30:48 +0300</pubDate>
+    <lastBuildDate>Thu, 13 Dec 2018 23:30:48 +0300</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Понятие точности, линейные размеры и отклонения</title>
@@ -67,8 +66,8 @@
 &lt;p&gt;Отклонения бывают положительными, отрицательными и равными нулю. Отклонения, равные нулю, в обозначении не указываются. На чертежах номинальные и предельные линейные размеры и их отклонения проставляют в миллиметрах без указания единицы физической величины.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/posts/2018/09/28/01.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/posts/2018/09/28/01.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/28/01.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/28/01.html</guid>
         
         
         <category>posts</category>
@@ -80,8 +79,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test2.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test2.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test2.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test2.html</guid>
         
         
         <category>test</category>
@@ -93,8 +92,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test1.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test1.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test1.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test1.html</guid>
         
         
         <category>test</category>
@@ -106,8 +105,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 18:21:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test4.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test4.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test4.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test4.html</guid>
         
         
         <category>test</category>
@@ -119,8 +118,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 14:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test3.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test3.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test3.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test3.html</guid>
         
         
         <category>test</category>
@@ -132,8 +131,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 13:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test6.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test6.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test6.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test6.html</guid>
         
         
         <category>test</category>
@@ -145,8 +144,8 @@
         <description>
 </description>
         <pubDate>Fri, 28 Sep 2018 13:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test5.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/test/2018/09/28/01-test5.html</guid>
+        <link>https://titoratus.github.io/webtech/test/2018/09/28/01-test5.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/test/2018/09/28/01-test5.html</guid>
         
         
         <category>test</category>
@@ -212,8 +211,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/posts/2018/09/27/02.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/posts/2018/09/27/02.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/27/02.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/27/02.html</guid>
         
         
         <category>posts</category>
@@ -279,8 +278,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/posts/2018/09/26/03.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/posts/2018/09/26/03.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/26/03.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/26/03.html</guid>
         
         
         <category>posts</category>
@@ -346,8 +345,8 @@
 &lt;p&gt;Допуск посадки – это допуск зазора для посадок с гарантированным зазором (определяется, как разность между наибольшим и наименьшим зазорами) или допуск натяга для посадок с гарантированным натягом (определяется, как разность между наибольшим и наименьшим натягами). В переходных посадках допуск посадки – это допуск зазора или натяга /1/.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Sep 2018 18:23:25 +0300</pubDate>
-        <link>http://forallneeds.h1n.ru/webtech/posts/2018/09/25/04.html</link>
-        <guid isPermaLink="true">http://forallneeds.h1n.ru/webtech/posts/2018/09/25/04.html</guid>
+        <link>https://titoratus.github.io/webtech/posts/2018/09/25/04.html</link>
+        <guid isPermaLink="true">https://titoratus.github.io/webtech/posts/2018/09/25/04.html</guid>
         
         
         <category>posts</category>
